@@ -1,5 +1,5 @@
-👋 Hi, I’m @malthewejnold 
-👀 I’m a developer 
+👋 Hi, I’m @malthewejnold  
+👀 I’m a developer  
 📫 You can contact me on malthewejnold@gmail.com 
 
 <!---
