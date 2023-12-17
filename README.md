@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @malthewejnold
-- 👀 I’m interested a developer
-- 📫 You can contact me on malthewejnold@gmail.com
+👋 Hi, I’m @malthewejnold
+👀 I’m a developer
+📫 You can contact me on malthewejnold@gmail.com
 
 <!---
 malthewejnold/malthewejnold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
