@@ -10,7 +10,7 @@ I'm based in Copenhagen which is my beloved home town 🇩🇰
 
 - 💼 Founder & Software Developer at [MergeIT](https://mergeit.dk/)
 
-- 📈 Developed for almost a decade!
+- 📈 I have developed for almost a decade!
 
 - 🫶 I really enjoy working with TypeScript, but also love working on new technologies!
 
