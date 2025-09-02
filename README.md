@@ -16,8 +16,11 @@ I'm based in Copenhagen which is my beloved home town 🇩🇰
 
 - 💬 My profile doesn't have many public repositories, as most of my work is in private repositories or organizations... So please contact me [here](mailto:mw@mergeit.dk)
 
+<br/>
+
 **Tech stack**
 <br/>
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=node.js)
